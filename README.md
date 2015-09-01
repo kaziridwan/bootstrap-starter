@@ -1,1 +1,3 @@
-This is a starter *bootstrap* template for easy templating
+
+# bootstrap-starter
+a starter boilerplate for *bootstrap* templating
